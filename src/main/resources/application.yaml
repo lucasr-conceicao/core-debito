@@ -1,0 +1,7 @@
+server:
+  port: 9080
+
+spring:
+  application:
+    name: coredebito
+    version: 1.0
